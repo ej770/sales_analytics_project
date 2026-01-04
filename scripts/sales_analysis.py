@@ -7,7 +7,7 @@ RAW_FILE = "data/cleaned_sales.csv"
 OUTPUT_FOLDER = "outputs"
 OUTPUT_CHARTS = os.path.join(OUTPUT_FOLDER, "charts")
 
-# Columns in your dataset
+
 SALES_COLUMN = "retail_sales"
 YEAR_COLUMN = "year"
 MONTH_COLUMN = "month"
@@ -16,7 +16,7 @@ PRODUCT_DESC_COLUMN = "item_description"
 REGION_COLUMN = "supplier"
 
 # ------------------------------
-# Create output folders if they don't exist
+
 # ------------------------------
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_CHARTS, exist_ok=True)
