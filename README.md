@@ -80,12 +80,5 @@ o	Produces a bar chart for visualization.
 3.	Regional Performance
 o	Aggregates retail_sales by supplier.
 
-
-Visualizations
-You can embed charts directly in your README to showcase results:
-Monthly Retail Sales Trend
-Top Products
-Regional Sales
-
 License
 This project is for educational and portfolio purposes. You may reuse the code with attribution.
