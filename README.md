@@ -1,5 +1,10 @@
 Sales Analytics Project
 Overview
+## Dataset
+
+This project uses a publicly available Montgomery County warehouse and retail sales dataset.
+The data was used strictly for educational and portfolio demonstration purposes.
+
 This project performs a dynamic analysis of retail sales data, generating insights into:
 •	Monthly retail sales trends
 
@@ -81,13 +86,6 @@ You can embed charts directly in your README to showcase results:
 Monthly Retail Sales Trend
 Top Products
 Regional Sales
-________________________________________
-GitHub Tips
-•	Exclude cleaned_sales.csv if it contains sensitive data.
 
-•	Include generated charts in outputs/charts/ for visual presentation.
-
-•	Use the CSVs to create dashboards in Excel, Power BI, or Tableau.
-________________________________________
 License
 This project is for educational and portfolio purposes. You may reuse the code with attribution.
